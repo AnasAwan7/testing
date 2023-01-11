@@ -1,0 +1,26 @@
+=> git init
+
+=> git status
+
+
+(touch is used to create files)
+=> touch readme.txt
+=> touch work.html
+
+=> git status
+
+(File in red color) => untrack File Or unstaging
+
+=> git add (file name) => specific file
+=> git add . (all files)
+
+=> git status
+
+(File in green color) => track File Or staging area
+
+=> git commit -m "First Commit"
+
+=> git log
+
+=> git status
+
